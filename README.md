@@ -1,5 +1,6 @@
 ```markdown
 # CyberSiARA
+cyber siara logo.png
 
 <p align="center">
   <strong>AI-Powered Bot Protection | Invisible Human Verification</strong>
